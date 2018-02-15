@@ -1,0 +1,17 @@
+body{
+	background-image: url("https://i.kinja-img.com/gawker-media/image/upload/s--EzTiyPTB--/c_scale,fl_progressive,q_80,w_800/675224038938698383.jpg");
+	background-repeat: no-repeat;
+	background-size: 1800px 900px;
+
+
+    text-align: center;
+
+}
+
+.card{
+width: 120px;
+margin: 0 2px;
+}
+.found { 
+display: inline-block; 
+}
